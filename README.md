@@ -56,13 +56,13 @@
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kilordgosth&show_icons=true&locale=en&layout=compact" alt="kilordgosth" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kilordgosth&layout=compact" alt="kilordgosth" /></p>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kilordgosth&theme=dark&show_icons=true" alt="kilordgosth" /></p>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kilordgosth&" alt="kilordgosth" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
@@ -92,6 +92,9 @@ Here are some ideas to get you started:
 
 
 original:
+
+="https://github-readme-stats.vercel.app/api/top-langs?username=kilordgosth&show_icons=true&locale=en&layout=compact" 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kilordgosth&show_icons=true&locale=en" alt="kilordgosth" /></p>
 
 -->
