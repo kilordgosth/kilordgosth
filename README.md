@@ -49,7 +49,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kilordgosth&" alt="kilordgosth" /></p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kilordgosth&show_icons=true&locale=en&theme=vision-friendly-dark=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kilordgosth&theme=vision-friendly-dark=true)
 
 
 <p align="left"> <a href="https://twitter.com/k1llclu7ch" target="blank"><img src="https://img.shields.io/twitter/follow/k1llclu7ch?logo=twitter&style=for-the-badge" alt="k1llclu7ch" /></a> </p>
