@@ -40,7 +40,7 @@
 
 <br>
 <br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kilordgosth&show_icons=true&locale=en&layout=compact" alt="kilordgosth" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kilordgosth&show_icons=true&locale=en&layout=compact" alt="kilordgosth" /></p>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kilordgosth&theme=dark&show_icons=true" alt="kilordgosth" /></p>
 <br>
