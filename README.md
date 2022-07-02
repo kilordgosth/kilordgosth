@@ -23,20 +23,12 @@
 
 - 📫 How to reach me **kilord-gosth@hotmail.com**
 
-- 📄 Know about my experiences [I have worked on projects as a freelance with technologies such as C# and .Net. In areas of production and human resources and technical support.](I have worked on projects as a freelance with technologies such as C# and .Net. In areas of production and human resources and technical support.)
+- 📄 About my experiences **I have worked on projects as a freelance with technologies such as C# and .Net. In areas of production and human resources and technical support.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-<a href="https://twitter.com/k1llclu7ch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="k1llclu7ch" height="30" width="40" /></a>
-  
-<a href="https://linkedin.com/in/harturo-velasquez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harturo-velasquez" height="30" width="40" /></a>
-  
-<a href="https://stackoverflow.com/users/12542571/tk-arthur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12542571/tk-arthur" height="30" width="40" /></a>
-  
-<a href="https://instagram.com/turohostone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="turohostone" height="30" width="40" /></a>
-  
-<a href="https://www.youtube.com/c/uchjym2mjtb1kaou7yjl6wug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uchjym2mjtb1kaou7yjl6wug" height="30" width="40" /></a>
+<a href="https://twitter.com/k1llclu7ch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="k1llclu7ch" height="30" width="40" /></a><a href="https://linkedin.com/in/harturo-velasquez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harturo-velasquez" height="30" width="40" /></a><a href="https://stackoverflow.com/users/12542571/tk-arthur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12542571/tk-arthur" height="30" width="40" /></a><a href="https://instagram.com/turohostone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="turohostone" height="30" width="40" /></a><a href="https://www.youtube.com/c/uchjym2mjtb1kaou7yjl6wug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uchjym2mjtb1kaou7yjl6wug" height="30" width="40" /></a>
   
 </p>
 
@@ -71,10 +63,13 @@
 
 
 <p align="center"> <a href="https://twitter.com/k1llclu7ch" target="blank"><img src="https://img.shields.io/twitter/follow/k1llclu7ch?logo=twitter&style=for-the-badge" alt="k1llclu7ch"/></a><img src="https://komarev.com/ghpvc/?username=kilordgosth&label=Profile%20views&color=0e75b6&style=flat" alt="kilordgosth" />
+  <h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/estaesmipagina.pro"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="estaesmipagina.pro" /></a><a href="https://ko-fi.com/estatambienes.pro"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="estatambienes.pro" /></a></p><br><br>
 
-</p>
 
-### Hi there 👋
+
+
+### See you soon!👍
 
 <!--
 **kilordgosth/kilordgosth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
