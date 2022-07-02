@@ -30,7 +30,9 @@
   
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kilordgosth" alt="kilordgosth" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kilordgosth&theme=onedark" alt="kilordgosth" /></a> </p>
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -85,6 +87,10 @@ Here are some ideas to get you started:
 
 
 original:
+trofeo
+https://github-profile-trophy.vercel.app/?username=kilordgosth
+
+
 
 ="https://github-readme-stats.vercel.app/api/top-langs?username=kilordgosth&show_icons=true&locale=en&layout=compact" 
 
