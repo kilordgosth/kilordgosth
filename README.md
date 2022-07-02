@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, My name is Arturo Velasquez</h1>
 <h3 align="center">A passionate developer from Colombia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kilordgosth&label=Profile%20views&color=0e75b6&style=flat" alt="kilordgosth" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kilordgosth" alt="kilordgosth" /></a> </p>
 
@@ -27,7 +26,7 @@
 - 📄 Know about my experiences [I have worked on projects as a freelance with technologies such as C# and .Net. In areas of production and human resources and technical support.](I have worked on projects as a freelance with technologies such as C# and .Net. In areas of production and human resources and technical support.)
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p align="left">
   
 <a href="https://twitter.com/k1llclu7ch" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="k1llclu7ch" height="30" width="40" /></a>
@@ -39,8 +38,6 @@
 <a href="https://instagram.com/turohostone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="turohostone" height="30" width="40" /></a>
   
 <a href="https://www.youtube.com/c/uchjym2mjtb1kaou7yjl6wug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uchjym2mjtb1kaou7yjl6wug" height="30" width="40" /></a>
-  
-  
   
 </p>
 
