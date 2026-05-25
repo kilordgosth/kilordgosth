@@ -24,7 +24,7 @@ class ArturoDev:
 ```
 
 - 🔭 Working on **cloud-native cybersecurity platforms using GCP, Firebase, Python and AI**
-- 🌱 Learning **Node.js · IT Security in networks and cloud services · MACH Architecture**
+- 🌱 Learning **Node.js · IT Security · MACH Architecture · Google Cloud**
 - 👯 Looking to collaborate on **frontend and backend projects**
 - 🤝 Looking for help with **3D animation for Web3**
 - 💬 Ask me about **MySQL · HTML5 · CSS3 · Java · PHP · Python · Subnetting**
@@ -53,6 +53,23 @@ class ArturoDev:
 <img src="https://github-profile-trophy.vercel.app/?username=kilordgosth&theme=onedark&no-frame=true&row=1&column=8"/>
 
 </div>
+
+---
+
+## 🚀 Current Tech Stack
+
+> Technologies I'm actively building with
+
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore-FF6F00?style=flat&logo=firebase&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat&logo=google&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python_3.12-3776AB?style=flat&logo=python&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 ---
 
@@ -150,6 +167,6 @@ class ArturoDev:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer&fontColor=00d4ff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer"/>
 
 </div>
