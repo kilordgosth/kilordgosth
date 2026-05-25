@@ -1,11 +1,10 @@
 <div align="center">
 
-# Hi, I'm Arturo Velasquez 👋
-### Systems Engineer · Cloud Developer · Cybersecurity Enthusiast
-#### 🇨🇴 Colombia
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Arturo%20Velasquez&fontSize=50&fontColor=00d4ff&fontAlignY=35&desc=Systems%20Engineer%20·%20Cloud%20Developer%20·%20Cybersecurity%20Enthusiast&descAlignY=55&descColor=7a9ab5&animation=fadeIn"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=kilordgosth&label=Profile%20views&color=0e75b6&style=flat)
-[![Twitter Follow](https://img.shields.io/twitter/follow/k1llclu7ch?logo=twitter&style=flat)](https://twitter.com/k1llclu7ch)
+![Profile Views](https://komarev.com/ghpvc/?username=kilordgosth&label=Profile%20views&color=00d4ff&style=flat)
+[![Twitter Follow](https://img.shields.io/twitter/follow/k1llclu7ch?logo=twitter&style=flat&color=1DA1F2)](https://twitter.com/k1llclu7ch)
+![GitHub followers](https://img.shields.io/github/followers/kilordgosth?style=flat&color=00d4ff)
 
 </div>
 
@@ -13,16 +12,24 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently working on **code debugging and supporting fullstack development**, **cloud-native cybersecurity platforms 
-  using GCP, Firebase, Python and AI**
-- 🌱 Learning **Node.js · JavaScript · IT Security in networks and cloud services**
+```python
+class ArturoDev:
+    name       = "Arturo Velasquez"
+    location   = "Colombia 🇨🇴"
+    role       = "Systems Engineer · Cloud Developer"
+    focus      = ["Cybersecurity", "Cloud Architecture", "AI & Data"]
+    learning   = ["FastAPI", "Google Cloud", "Vertex AI", "Node.js"]
+    hobbies    = ["Web3", "3D Animation", "Open Source"]
+    available  = True  # Open to collaborate
+```
+
+- 🔭 Working on **cloud-native cybersecurity platforms using GCP, Firebase, Python and AI**
+- 🌱 Learning **Node.js · IT Security in networks and cloud services · MACH Architecture**
 - 👯 Looking to collaborate on **frontend and backend projects**
 - 🤝 Looking for help with **3D animation for Web3**
 - 💬 Ask me about **MySQL · HTML5 · CSS3 · Java · PHP · Python · Subnetting**
-- 📝 I regularly write articles on [rb.gy/unxp7g](https://rb.gy/unxp7g)
-- 👨‍💻 Some of my projects are available at [rb.gy/cantsf](https://rb.gy/cantsf)
-- 📫 How to reach me: **hvelasq85549@universidadean.edu.co**
-- 📄 Experience: Freelance with C# and .NET in production, HR and technical support
+- 📝 Articles at [rb.gy/unxp7g](https://rb.gy/unxp7g) · Projects at [rb.gy/cantsf](https://rb.gy/cantsf)
+- 📫 **hvelasq85549@universidadean.edu.co**
 
 ---
 
@@ -53,9 +60,10 @@
 
 ### ☁️ Cloud & DevOps
 <p align="left">
+<a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
+<a href="https://firebase.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
 <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
 <a href="https://azure.microsoft.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
-<a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
 <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
@@ -64,6 +72,7 @@
 ### 🤖 AI & Data
 <p align="left">
 <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
+<a href="https://fastapi.tiangolo.com" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/></a>
 </p>
 
 ### 🐍 Backend
@@ -108,15 +117,15 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=kilordgosth&theme=dark&show_icons=true&hide_border=true&count_private=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=kilordgosth&theme=dark&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff"/>
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=kilordgosth&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=kilordgosth&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4ff"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kilordgosth&theme=dark&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kilordgosth&theme=dark&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff"/>
 
 </div>
 
@@ -124,7 +133,7 @@
 
 ## 💼 Experience
 
-🔐 Cybersecurity — Threat monitoring platform built with GCP & Python, integrating Fortinet, Palo Alto, and OSINT tools for ethical hacking and proactive pentesting.
+- 🔐 **Cybersecurity** — Threat monitoring platform built with GCP & Python, integrating security tools for ethical hacking and proactive threat intelligence
 - 💻 **Freelance** — C# and .NET in production and HR areas
 - 🛠️ **Technical Support** — Infrastructure and network management
 - 🎓 **Systems Engineering** — Universidad EAN, Colombia
@@ -139,6 +148,8 @@
 &nbsp;
 <a href="https://ko-fi.com/estatambienes.pro"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi"/></a>
 
-### See you soon! 👍
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer&fontColor=00d4ff"/>
 
 </div>
